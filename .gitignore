@@ -1,0 +1,13 @@
+*.tlog
+*.pdb
+*.idb
+*.ipdb
+*.filters
+*.user
+*.vcxproj
+*.obj
+*.log 
+*.exe
+*.ilk
+*.iobj
+
